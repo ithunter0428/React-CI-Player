@@ -1,0 +1,22 @@
+{
+	"Players": [
+		{
+			"Name": "Jon Smith",
+			"Age": 22,
+			"Location": {
+				"City": "Halifax",
+				"Province": "Nova Scotia",
+				"Country": "Canada"
+			}
+    },
+    {
+			"Name": "Sam Smith",
+			"Age": 22,
+			"Location": {
+				"City": "Montreal",
+				"Province": "Quebec",
+				"Country": "Canada"
+			}
+		}
+	]
+}
